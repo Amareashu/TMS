@@ -1,0 +1,59 @@
+    body {
+        background-color: gray
+    }
+    
+    #navbar-menu a {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 110%;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    
+    #navbar-menu li {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 110%;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    
+    #navbar-brand h1 {
+        font-size: 120%;
+    }
+    
+    .list-group button {
+        width: 90%;
+    }
+    
+    #letter input {
+        height: 23px;
+    }
+    
+    #body h3 {
+        background-color: rgb(56, 52, 52);
+        text-align: center;
+        color: wheat;
+        font-family: 'Times New Roman';
+    }
+    
+    #inform i {
+        text-align: left;
+        font-family: 'Times New Roman';
+        font-size: 120%;
+    }
+    
+    #body #re_form {
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        margin-left: 2%;
+        margin-right: 2%;
+        text-align: left;
+        color: wheat;
+    }
+    
+    th {
+        font-size: 130%;
+    }
+    
+    pre {
+        font-family: 'Times New Roman', Times, serif;
+    }
